@@ -1,6 +1,6 @@
 
 
-# Open Redirect vulnerability 
+# Open Redirect vulnerability in Rust 🦀
 
 occurs when an application redirects users to a URL that can be controlled by user input. [cite: 12] [cite\_start]Attackers exploit this to lend credibility to their phishing attacks by making it appear as if the user is visiting a trusted domain, while in reality, they are being sent to a malicious site. [cite: 14, 15] [cite\_start]This can damage user trust and the company's reputation. [cite: 16, 17]
 
